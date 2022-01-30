@@ -1,1 +1,1 @@
-#react electron alapu papir generálás
+# react electron alapu papir generálás
