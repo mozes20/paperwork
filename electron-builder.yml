@@ -1,0 +1,15 @@
+   appId: "paperworks"
+  "publish":{
+    "provider": github,
+    "token": [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]
+    }
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mozes20/paperwork.git"
+  },
+  "extraFiles": [
+    {
+      "from": "assets",
+      "to": "assets"
+    }
+  ]
